@@ -249,7 +249,7 @@ _SIMPLE_HTML = """
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>TOC + Fun Chatbot</title>
+<title>Tocbot</title>
 <style>
   body { font-family: Arial, sans-serif; background:#f0f2f5; margin:0; }
   .container {
