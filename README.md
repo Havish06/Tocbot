@@ -5,7 +5,7 @@ It can run either as a **Flask web app** (with a chat UI) or in **CLI mode** dir
 
 ---
 
-## ✨ Features
+##  Features
 
 * **Greetings & Small Talk**
 
@@ -47,7 +47,7 @@ It can run either as a **Flask web app** (with a chat UI) or in **CLI mode** dir
 
 ---
 
-## 🚀 Running the Chatbot
+##  Running the Chatbot
 
 ### 1. Requirements
 
@@ -87,7 +87,7 @@ Bot: Hey! I'm your bot. Ask me to solve math, run code, or tell you a joke.
 
 ---
 
-## 🛠️ Project Structure
+##  Project Structure
 
 * **DialogueManager** → Stores chat memory.
 * **ProgramExecutor** → Evaluates math + executes Python code.
@@ -99,7 +99,7 @@ Bot: Hey! I'm your bot. Ask me to solve math, run code, or tell you a joke.
 
 ---
 
-## 📚 Example Prompts
+##  Example Prompts
 
 * `2 + 2 * 5` → `Result: 12`
 * `dfa:10101` → `Accepted by DFA (ends with '01')`
@@ -108,12 +108,3 @@ Bot: Hey! I'm your bot. Ask me to solve math, run code, or tell you a joke.
 * `regex:[a-z]+; string:hello` → `Regex matched!`
 * `tell me a joke` → Random programming joke
 * `fun fact` → Random TOC fact
-
----
-
-## 👨‍💻 Author
-
-Built as a fun **Theory of Computation + Chatbot** mashup project.
-Works both in **browser** (with Flask) and **terminal** (CLI mode).
-
----
