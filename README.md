@@ -1,4 +1,4 @@
-# TOC + Fun Chatbot
+# Tocbot
 
 This is a chatbot that mixes **fun conversations** with **Theory of Computation (TOC) demos** and **basic programming/math utilities**.
 It can run either as a **Flask web app** (with a chat UI) or in **CLI mode** directly from the terminal.
